@@ -3,16 +3,17 @@
 **Author:** Yuna Mishra  
 **System Architecture:** Computer Vision, Machine Learning, and Real-Time Graphics Rendering Pipeline
 
-## Gesture Driven Generative Canvas	1
-## Project Overview	2
-### Motivation & Objective	2
-## Architecture & Requirements	3
-### Tools & Libraries	3
-### Concepts & Math Used	3
-## How It Works (Execution Flow)	4
-## Setup & How to Run	5
-## Issues Faced & Solutions	6
-## AI Assistance & Technical Lessons	6
+### Table of Contents
+1. Gesture Driven Generative Canvas	1
+2. Project Overview	2
+3. Motivation & Objective	2
+4. Architecture & Requirements	3
+5. Tools & Libraries	3
+6. Concepts & Math Used	3
+7. How It Works (Execution Flow)	4
+8. Setup & How to Run	5
+9. Issues Faced & Solutions	6
+10. AI Assistance & Technical Lessons	6
 
 # Project Overview
 
@@ -86,6 +87,7 @@ Make sure Python 3.11 is active to maintain full compatibility with MediaPipe an
 For macOS environment stability, pass the CPU flag when launching the main menu:
 
     MEDIAPIPE_GPU=0 python main.py
+
 
 ## Workflow inside the Menu:
 
